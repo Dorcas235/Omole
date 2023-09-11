@@ -1,0 +1,5 @@
+Git is a free and open source distributed version control system 
+Initialize git - git Init
+Add content - git add .
+Communication -git commit -m "added image on image.html file"
+Push work -git push -u origin menu

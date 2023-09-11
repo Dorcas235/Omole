@@ -1,0 +1,27 @@
+  *{
+    padding:0;
+    margin: 20;
+  }
+  
+
+  .topinformation{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin:0 auto;
+    width: 60%;
+    height: auto;
+    border: 2px solid black;
+
+    
+  }
+  .moreinfo{
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+    margin-left: 50px;
+  }
+  .CallCenterInternationalOctober2022April2023{
+    font-weight: bold;
+
+  }
